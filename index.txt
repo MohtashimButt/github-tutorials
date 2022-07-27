@@ -2,3 +2,6 @@ this is version one of my software
 stage->commit
 
 <<git add .>> will put all the files form working area to stage
+<<git commit -m "any message">> will commit the files
+<<git log>> is used to see any change
+Heelo yawwwr
