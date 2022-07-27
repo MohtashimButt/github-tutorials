@@ -5,3 +5,7 @@ stage->commit
 <<git commit -m "any message">> will commit the files
 <<git log>> is used to see any change
 Heelo yawwwr
+<<git remote add origin <<link>> >> will help to add <<link>> as my origin
+
+
+<<git config user.email>> is used to check which email is actually logged into the git
